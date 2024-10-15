@@ -15,3 +15,4 @@ public class Product {
     @Min(value=1, message="Value must be greater than 1")
     private int code;
 }
+
